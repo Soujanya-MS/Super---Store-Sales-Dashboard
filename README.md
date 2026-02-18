@@ -1,55 +1,59 @@
-**>> Project Overview**
-a. End-to-end Power BI sales analytics project
-b. Imported and integrated multiple data sources
-c. Cleaned and transformed data using Power Query
-d. Designed interactive and user-friendly dashboards
+## 📊 Power BI Super - Store Sales Analytics Project
 
+### 🔹 Project Overview
 
-**>> Data Preparation**
-a. Removed duplicates and handled missing values
-b. Standardized date and category formats
-c. Created calculated columns and DAX measures
-d. Built a proper data model with relationships
+* Developed an end-to-end Power BI sales analytics solution
+* Imported and integrated multiple data sources
+* Cleaned and transformed data using Power Query
+* Designed interactive, user-friendly dashboards
 
+### 🔹 Data Preparation
 
-**>> Data Analysis Techniques**
-a. Applied time series analysis for sales trends
-b. Performed month-over-month and year-over-year comparison
-c. Identified seasonal patterns and growth trends
-d. Segmented data by region, category, and customer type
+* Removed duplicates and handled missing values
+* Standardized date formats and category structures
+* Created calculated columns and DAX measures
+* Built a structured data model with proper relationships
 
+### 🔹 Data Analysis
 
-**🔮 Forecasting & Insights**
-a. Implemented sales forecasting using Power BI forecasting tools
-b. Predicted future sales trends with confidence intervals
-c. Highlighted high-performing products and regions
-d. Identified revenue growth opportunities
+* Performed time series analysis to track sales trends
+* Conducted Month-over-Month (MoM) and Year-over-Year (YoY) comparisons
+* Identified seasonal patterns and growth trends
+* Segmented sales by region, product category, and customer type
 
-**>> Dashboard Features**
-a. KPI cards for Revenue, Profit, and Sales Growth
-b. Advanced visuals: line charts, area charts, bar charts, and maps
-c. Drill-through and drill-down functionality
-d. Dynamic filters and slicers for interactive analysis
-e. Tooltips for enhanced user insights
+### 🔹 Forecasting & Insights
 
+* Implemented sales forecasting using Power BI forecasting tools
+* Predicted future sales trends with confidence intervals
+* Identified high-performing products and regions
+* Highlighted revenue growth opportunities
 
-**>> Visualization & Mapping**
-a. Region-wise performance using map visuals
-b. Geographic sales distribution analysis
-c. Interactive regional comparison
+### 🔹 Dashboard Features
 
+* KPI cards for Revenue, Profit, and Sales Growth
+* Advanced visuals: line charts, area charts, bar charts, and maps
+* Drill-down and drill-through functionality
+* Dynamic filters and slicers for interactive analysis
+* Custom tooltips for enhanced insights
 
-**>> Reporting & Sharing**
-a. Exported dashboard as PDF for stakeholders
-b. Designed executive-level summary view
-c. Presented key business insights and recommendations
+### 🔹 Visualization & Mapping
 
+* Region-wise performance analysis using map visuals
+* Geographic sales distribution insights
+* Interactive regional comparison dashboards
 
-**>> Key Learnings**
-a. Practical implementation of DAX for business metrics
-b. Strong understanding of time series forecasting
-c. Hands-on experience in dashboard storytelling
-d. Data-driven decision-making approach
+### 🔹 Reporting & Sharing
+
+* Exported dashboards as PDF for stakeholders
+* Designed executive-level summary view
+* Presented key business insights and recommendations
+
+### 🔹 Key Learnings
+
+* Practical implementation of DAX for business metrics
+* Strong understanding of time series forecasting
+* Hands-on experience in dashboard storytelling
+* Applied data-driven decision-making approach
 
 
 Incorporated data analysis techniques, specializing in time series analysis, to deliver valuable insights, accurate sales forecasting, and interactive dashboard creation, driving business success.
